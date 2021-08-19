@@ -1,4 +1,2 @@
-# star-admin-pro-vue
-
-> A Vue.js project
 套用bootstrap-vue 的免費template做版面設計
+主要功能為1.探店時對店家和商品的簡單記錄2.購買咖啡豆及沖煮咖啡的相關記錄
